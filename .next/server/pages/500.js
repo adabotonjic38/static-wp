@@ -4,7 +4,7 @@ exports.id = 573;
 exports.ids = [573];
 exports.modules = {
 
-/***/ 6157:
+/***/ 7398:
 /***/ ((module) => {
 
 // Exports
@@ -17,7 +17,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 1747:
+/***/ 4925:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -26,15 +26,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (/* binding */ Custom500),
 /* harmony export */   "getStaticProps": () => (/* binding */ getStaticProps)
 /* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1527);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8873);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5893);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1664);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2791);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7992);
-/* harmony import */ var components_Section__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7986);
-/* harmony import */ var components_Container__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9810);
-/* harmony import */ var styles_pages_Error_module_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6157);
+/* harmony import */ var components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1938);
+/* harmony import */ var components_Section__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7299);
+/* harmony import */ var components_Container__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(6289);
+/* harmony import */ var styles_pages_Error_module_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7398);
 /* harmony import */ var styles_pages_Error_module_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(styles_pages_Error_module_scss__WEBPACK_IMPORTED_MODULE_6__);
 
 
@@ -198,7 +198,7 @@ module.exports = require("next/router");
 
 /***/ }),
 
-/***/ 8541:
+/***/ 8181:
 /***/ ((module) => {
 
 "use strict";
@@ -237,7 +237,7 @@ module.exports = require("react-icons/fa");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [527,873,320,992], () => (__webpack_exec__(1747)));
+var __webpack_exports__ = __webpack_require__.X(0, [893,664,564,938], () => (__webpack_exec__(4925)));
 module.exports = __webpack_exports__;
 
 })();

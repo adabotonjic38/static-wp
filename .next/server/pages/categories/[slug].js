@@ -4,7 +4,7 @@ exports.id = 591;
 exports.ids = [591];
 exports.modules = {
 
-/***/ 8329:
+/***/ 2051:
 /***/ ((module) => {
 
 // Exports
@@ -15,7 +15,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 302:
+/***/ 177:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -25,12 +25,12 @@ __webpack_require__.d(__webpack_exports__, {
   "Z": () => (/* reexport */ Title_Title)
 });
 
-// EXTERNAL MODULE: ./node_modules/.pnpm/react@18.2.0/node_modules/react/jsx-runtime.js
-var jsx_runtime = __webpack_require__(1527);
+// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(5893);
 // EXTERNAL MODULE: ./src/models/classname.js
-var classname = __webpack_require__(196);
+var classname = __webpack_require__(5301);
 // EXTERNAL MODULE: ./src/components/Title/Title.module.scss
-var Title_module = __webpack_require__(8329);
+var Title_module = __webpack_require__(2051);
 var Title_module_default = /*#__PURE__*/__webpack_require__.n(Title_module);
 ;// CONCATENATED MODULE: ./src/components/Title/Title.js
 
@@ -61,7 +61,7 @@ const Title = ({ className , title , thumbnail  })=>{
 
 /***/ }),
 
-/***/ 4436:
+/***/ 6000:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -71,12 +71,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "getStaticPaths": () => (/* binding */ getStaticPaths),
 /* harmony export */   "getStaticProps": () => (/* binding */ getStaticProps)
 /* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1527);
-/* harmony import */ var lib_categories__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6158);
-/* harmony import */ var lib_posts__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8475);
-/* harmony import */ var hooks_use_page_metadata__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3913);
-/* harmony import */ var templates_archive__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5572);
-/* harmony import */ var components_Title__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(302);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5893);
+/* harmony import */ var lib_categories__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9496);
+/* harmony import */ var lib_posts__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1972);
+/* harmony import */ var hooks_use_page_metadata__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3255);
+/* harmony import */ var templates_archive__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5754);
+/* harmony import */ var components_Title__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(177);
 
 
 
@@ -252,7 +252,7 @@ module.exports = require("next/router");
 
 /***/ }),
 
-/***/ 8541:
+/***/ 8181:
 /***/ ((module) => {
 
 "use strict";
@@ -307,7 +307,7 @@ module.exports = require("react-icons/hi");
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [527,873,320,992,515,12,242,108], () => (__webpack_exec__(4436)));
+var __webpack_exports__ = __webpack_require__.X(0, [893,664,564,938,36,93,533,631], () => (__webpack_exec__(6000)));
 module.exports = __webpack_exports__;
 
 })();

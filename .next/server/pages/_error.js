@@ -5,7 +5,7 @@ exports.id = 820;
 exports.ids = [820];
 exports.modules = {
 
-/***/ 8140:
+/***/ 3499:
 /***/ ((module, exports, __webpack_require__) => {
 
 
@@ -18,9 +18,9 @@ Object.defineProperty(exports, "default", ({
         return Error;
     }
 }));
-const _interop_require_default = __webpack_require__(659);
+const _interop_require_default = __webpack_require__(167);
 const _react = /*#__PURE__*/ _interop_require_default._(__webpack_require__(6689));
-const _head = /*#__PURE__*/ _interop_require_default._(__webpack_require__(9089));
+const _head = /*#__PURE__*/ _interop_require_default._(__webpack_require__(2636));
 const statusCodes = {
     400: "Bad Request",
     404: "This page could not be found",
@@ -121,7 +121,7 @@ if ((typeof exports.default === "function" || typeof exports.default === "object
 
 /***/ }),
 
-/***/ 9089:
+/***/ 2636:
 /***/ ((module, exports, __webpack_require__) => {
 
 
@@ -144,8 +144,8 @@ _export(exports, {
         return _default;
     }
 });
-const _interop_require_default = __webpack_require__(659);
-const _interop_require_wildcard = __webpack_require__(9969);
+const _interop_require_default = __webpack_require__(167);
+const _interop_require_wildcard = __webpack_require__(8760);
 const _react = /*#__PURE__*/ _interop_require_wildcard._(__webpack_require__(6689));
 const _sideeffect = /*#__PURE__*/ _interop_require_default._(__webpack_require__(2470));
 const _ampcontext = __webpack_require__(3918);
@@ -342,7 +342,7 @@ module.exports = require("react");
 
 /***/ }),
 
-/***/ 659:
+/***/ 167:
 /***/ ((__unused_webpack_module, exports) => {
 
 
@@ -355,7 +355,7 @@ function _interop_require_default(obj) {
 
 /***/ }),
 
-/***/ 9969:
+/***/ 8760:
 /***/ ((__unused_webpack_module, exports) => {
 
 
@@ -407,7 +407,7 @@ function _interop_require_wildcard(obj, nodeInterop) {
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__(8140));
+var __webpack_exports__ = (__webpack_exec__(3499));
 module.exports = __webpack_exports__;
 
 })();

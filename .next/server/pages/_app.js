@@ -4,7 +4,7 @@ exports.id = 888;
 exports.ids = [888];
 exports.modules = {
 
-/***/ 7068:
+/***/ 5944:
 /***/ ((module) => {
 
 // Exports
@@ -15,7 +15,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 2606:
+/***/ 9789:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -27,32 +27,32 @@ __webpack_require__.d(__webpack_exports__, {
   "default": () => (/* binding */ _app)
 });
 
-// EXTERNAL MODULE: ./node_modules/.pnpm/react@18.2.0/node_modules/react/jsx-runtime.js
-var jsx_runtime = __webpack_require__(1527);
-// EXTERNAL MODULE: ./node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0_sass@1.62.1/node_modules/next/app.js
-var app = __webpack_require__(5049);
+// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(5893);
+// EXTERNAL MODULE: ./node_modules/next/app.js
+var app = __webpack_require__(7544);
 var app_default = /*#__PURE__*/__webpack_require__.n(app);
 // EXTERNAL MODULE: ./src/hooks/use-site.js
-var use_site = __webpack_require__(6202);
+var use_site = __webpack_require__(1127);
 // EXTERNAL MODULE: ./src/hooks/use-search.js + 1 modules
-var use_search = __webpack_require__(2748);
+var use_search = __webpack_require__(3078);
 // EXTERNAL MODULE: ./src/lib/site.js + 1 modules
-var site = __webpack_require__(2771);
+var site = __webpack_require__(3625);
 // EXTERNAL MODULE: ./src/lib/posts.js + 1 modules
-var posts = __webpack_require__(8475);
+var posts = __webpack_require__(1972);
 // EXTERNAL MODULE: ./src/lib/categories.js + 1 modules
-var lib_categories = __webpack_require__(6158);
+var lib_categories = __webpack_require__(9496);
 ;// CONCATENATED MODULE: external "nextjs-progressbar"
 const external_nextjs_progressbar_namespaceObject = require("nextjs-progressbar");
 var external_nextjs_progressbar_default = /*#__PURE__*/__webpack_require__.n(external_nextjs_progressbar_namespaceObject);
 // EXTERNAL MODULE: ./src/lib/menus.js + 1 modules
-var lib_menus = __webpack_require__(2102);
+var lib_menus = __webpack_require__(821);
 // EXTERNAL MODULE: ./src/styles/globals.scss
-var globals = __webpack_require__(5447);
+var globals = __webpack_require__(6961);
 // EXTERNAL MODULE: ./src/styles/wordpress.scss
-var wordpress = __webpack_require__(4333);
+var wordpress = __webpack_require__(1764);
 // EXTERNAL MODULE: ./src/styles/_variables.module.scss
-var _variables_module = __webpack_require__(7068);
+var _variables_module = __webpack_require__(5944);
 var _variables_module_default = /*#__PURE__*/__webpack_require__.n(_variables_module);
 ;// CONCATENATED MODULE: ./src/pages/_app.js
 
@@ -112,14 +112,14 @@ App.getInitialProps = async function(appContext) {
 
 /***/ }),
 
-/***/ 5447:
+/***/ 6961:
 /***/ (() => {
 
 
 
 /***/ }),
 
-/***/ 4333:
+/***/ 1764:
 /***/ (() => {
 
 
@@ -158,7 +158,7 @@ module.exports = require("next/dist/shared/lib/utils.js");
 
 /***/ }),
 
-/***/ 8541:
+/***/ 8181:
 /***/ ((module) => {
 
 "use strict";
@@ -181,7 +181,7 @@ module.exports = require("react");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [527,49,320], () => (__webpack_exec__(2606)));
+var __webpack_exports__ = __webpack_require__.X(0, [893,544,564], () => (__webpack_exec__(9789)));
 module.exports = __webpack_exports__;
 
 })();

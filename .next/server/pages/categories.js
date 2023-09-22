@@ -4,7 +4,7 @@ exports.id = 161;
 exports.ids = [161];
 exports.modules = {
 
-/***/ 7570:
+/***/ 4773:
 /***/ ((module) => {
 
 // Exports
@@ -15,7 +15,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 5684:
+/***/ 8520:
 /***/ ((module) => {
 
 // Exports
@@ -26,7 +26,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 9045:
+/***/ 7018:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -36,10 +36,10 @@ __webpack_require__.d(__webpack_exports__, {
   "Z": () => (/* reexport */ SectionTitle_SectionTitle)
 });
 
-// EXTERNAL MODULE: ./node_modules/.pnpm/react@18.2.0/node_modules/react/jsx-runtime.js
-var jsx_runtime = __webpack_require__(1527);
+// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(5893);
 // EXTERNAL MODULE: ./src/components/SectionTitle/SectionTitle.module.scss
-var SectionTitle_module = __webpack_require__(7570);
+var SectionTitle_module = __webpack_require__(4773);
 var SectionTitle_module_default = /*#__PURE__*/__webpack_require__.n(SectionTitle_module);
 ;// CONCATENATED MODULE: ./src/components/SectionTitle/SectionTitle.js
 
@@ -58,7 +58,7 @@ const SectionTitle = ({ children  })=>{
 
 /***/ }),
 
-/***/ 1378:
+/***/ 5394:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -67,20 +67,20 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (/* binding */ Categories),
 /* harmony export */   "getStaticProps": () => (/* binding */ getStaticProps)
 /* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1527);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8873);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5893);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1664);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2791);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var hooks_use_site__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6202);
-/* harmony import */ var lib_categories__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6158);
-/* harmony import */ var lib_json_ld__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1293);
-/* harmony import */ var components_Layout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7992);
-/* harmony import */ var components_Header__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(3636);
-/* harmony import */ var components_Section__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7986);
-/* harmony import */ var components_Container__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9810);
-/* harmony import */ var components_SectionTitle__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9045);
-/* harmony import */ var styles_pages_Categories_module_scss__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(5684);
+/* harmony import */ var hooks_use_site__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1127);
+/* harmony import */ var lib_categories__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9496);
+/* harmony import */ var lib_json_ld__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8357);
+/* harmony import */ var components_Layout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1938);
+/* harmony import */ var components_Header__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4695);
+/* harmony import */ var components_Section__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7299);
+/* harmony import */ var components_Container__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(6289);
+/* harmony import */ var components_SectionTitle__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(7018);
+/* harmony import */ var styles_pages_Categories_module_scss__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(8520);
 /* harmony import */ var styles_pages_Categories_module_scss__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(styles_pages_Categories_module_scss__WEBPACK_IMPORTED_MODULE_11__);
 
 
@@ -273,7 +273,7 @@ module.exports = require("next/router");
 
 /***/ }),
 
-/***/ 8541:
+/***/ 8181:
 /***/ ((module) => {
 
 "use strict";
@@ -312,7 +312,7 @@ module.exports = require("react-icons/fa");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [527,873,320,992,515], () => (__webpack_exec__(1378)));
+var __webpack_exports__ = __webpack_require__.X(0, [893,664,564,938,36], () => (__webpack_exec__(5394)));
 module.exports = __webpack_exports__;
 
 })();

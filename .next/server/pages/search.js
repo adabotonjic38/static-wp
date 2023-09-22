@@ -5,7 +5,7 @@ exports.id = 603;
 exports.ids = [603];
 exports.modules = {
 
-/***/ 7714:
+/***/ 5474:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -13,14 +13,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (/* binding */ Search),
 /* harmony export */   "getStaticProps": () => (/* binding */ getStaticProps)
 /* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5893);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1527);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6689);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2791);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var hooks_use_page_metadata__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3255);
-/* harmony import */ var hooks_use_search__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3078);
-/* harmony import */ var templates_archive__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5754);
+/* harmony import */ var hooks_use_page_metadata__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3913);
+/* harmony import */ var hooks_use_search__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2748);
+/* harmony import */ var templates_archive__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5572);
 
 
 
@@ -162,7 +162,7 @@ module.exports = require("next/router");
 
 /***/ }),
 
-/***/ 8181:
+/***/ 8541:
 /***/ ((module) => {
 
 module.exports = require("parameterize");
@@ -211,7 +211,7 @@ module.exports = require("react-icons/hi");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [893,664,564,938,36,93,533,631], () => (__webpack_exec__(7714)));
+var __webpack_exports__ = __webpack_require__.X(0, [527,873,320,992,515,12,242,108], () => (__webpack_exec__(5474)));
 module.exports = __webpack_exports__;
 
 })();

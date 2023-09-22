@@ -4,7 +4,7 @@ exports.id = 651;
 exports.ids = [651];
 exports.modules = {
 
-/***/ 7337:
+/***/ 8208:
 /***/ ((module) => {
 
 // Exports
@@ -15,7 +15,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 5561:
+/***/ 2466:
 /***/ ((module) => {
 
 // Exports
@@ -27,7 +27,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 2327:
+/***/ 7097:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -41,39 +41,39 @@ __webpack_require__.d(__webpack_exports__, {
   "getStaticProps": () => (/* binding */ getStaticProps)
 });
 
-// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
-var jsx_runtime = __webpack_require__(5893);
-// EXTERNAL MODULE: ./node_modules/next/link.js
-var next_link = __webpack_require__(1664);
+// EXTERNAL MODULE: ./node_modules/.pnpm/react@18.2.0/node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(1527);
+// EXTERNAL MODULE: ./node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0_sass@1.62.1/node_modules/next/link.js
+var next_link = __webpack_require__(8873);
 var link_default = /*#__PURE__*/__webpack_require__.n(next_link);
 // EXTERNAL MODULE: external "react-helmet"
 var external_react_helmet_ = __webpack_require__(2791);
 // EXTERNAL MODULE: ./src/lib/pages.js + 1 modules
-var lib_pages = __webpack_require__(7345);
+var lib_pages = __webpack_require__(499);
 // EXTERNAL MODULE: ./src/lib/json-ld.js
-var json_ld = __webpack_require__(8357);
+var json_ld = __webpack_require__(1293);
 // EXTERNAL MODULE: ./src/lib/site.js + 1 modules
-var site = __webpack_require__(3625);
+var site = __webpack_require__(2771);
 // EXTERNAL MODULE: ./src/hooks/use-site.js
-var use_site = __webpack_require__(1127);
+var use_site = __webpack_require__(6202);
 // EXTERNAL MODULE: ./src/hooks/use-page-metadata.js
-var use_page_metadata = __webpack_require__(3255);
+var use_page_metadata = __webpack_require__(3913);
 // EXTERNAL MODULE: ./src/components/Layout/index.js + 9 modules
-var Layout = __webpack_require__(1938);
+var Layout = __webpack_require__(7992);
 // EXTERNAL MODULE: ./src/components/Header/index.js + 1 modules
-var Header = __webpack_require__(4695);
+var Header = __webpack_require__(3636);
 // EXTERNAL MODULE: ./src/components/Content/index.js + 1 modules
-var Content = __webpack_require__(6676);
+var Content = __webpack_require__(1020);
 // EXTERNAL MODULE: ./src/components/Section/index.js + 1 modules
-var Section = __webpack_require__(7299);
+var Section = __webpack_require__(7986);
 // EXTERNAL MODULE: ./src/components/Container/index.js + 1 modules
-var Container = __webpack_require__(6289);
+var Container = __webpack_require__(9810);
 // EXTERNAL MODULE: ./src/components/FeaturedImage/index.js + 3 modules
-var FeaturedImage = __webpack_require__(7906);
+var FeaturedImage = __webpack_require__(5176);
 // EXTERNAL MODULE: ./src/models/classname.js
-var classname = __webpack_require__(5301);
+var classname = __webpack_require__(196);
 // EXTERNAL MODULE: ./src/components/Breadcrumbs/Breadcrumbs.module.scss
-var Breadcrumbs_module = __webpack_require__(7337);
+var Breadcrumbs_module = __webpack_require__(8208);
 var Breadcrumbs_module_default = /*#__PURE__*/__webpack_require__.n(Breadcrumbs_module);
 ;// CONCATENATED MODULE: ./src/components/Breadcrumbs/Breadcrumbs.js
 
@@ -104,7 +104,7 @@ const Breadcrumbs = ({ className , breadcrumbs  })=>{
 
 
 // EXTERNAL MODULE: ./src/styles/pages/Page.module.scss
-var Page_module = __webpack_require__(5561);
+var Page_module = __webpack_require__(2466);
 var Page_module_default = /*#__PURE__*/__webpack_require__.n(Page_module);
 ;// CONCATENATED MODULE: ./src/pages/[slugParent]/[[...slugChild]].js
 
@@ -373,7 +373,7 @@ module.exports = require("next/router");
 
 /***/ }),
 
-/***/ 8181:
+/***/ 8541:
 /***/ ((module) => {
 
 "use strict";
@@ -412,7 +412,7 @@ module.exports = require("react-icons/fa");
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [893,664,564,938,36,751], () => (__webpack_exec__(2327)));
+var __webpack_exports__ = __webpack_require__.X(0, [527,873,320,992,515,969], () => (__webpack_exec__(7097)));
 module.exports = __webpack_exports__;
 
 })();

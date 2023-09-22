@@ -4,7 +4,7 @@ exports.id = 405;
 exports.ids = [405];
 exports.modules = {
 
-/***/ 3359:
+/***/ 491:
 /***/ ((module) => {
 
 // Exports
@@ -16,7 +16,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 7215:
+/***/ 9470:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -29,31 +29,31 @@ __webpack_require__.d(__webpack_exports__, {
   "getStaticProps": () => (/* binding */ getStaticProps)
 });
 
-// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
-var jsx_runtime = __webpack_require__(5893);
+// EXTERNAL MODULE: ./node_modules/.pnpm/react@18.2.0/node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(1527);
 // EXTERNAL MODULE: ./src/hooks/use-site.js
-var use_site = __webpack_require__(1127);
+var use_site = __webpack_require__(6202);
 // EXTERNAL MODULE: ./src/lib/posts.js + 1 modules
-var lib_posts = __webpack_require__(1972);
+var lib_posts = __webpack_require__(8475);
 // EXTERNAL MODULE: ./src/lib/json-ld.js
-var json_ld = __webpack_require__(8357);
+var json_ld = __webpack_require__(1293);
 // EXTERNAL MODULE: ./src/components/Layout/index.js + 9 modules
-var Layout = __webpack_require__(1938);
+var Layout = __webpack_require__(7992);
 // EXTERNAL MODULE: ./src/components/Header/index.js + 1 modules
-var Header = __webpack_require__(4695);
+var Header = __webpack_require__(3636);
 // EXTERNAL MODULE: ./src/components/Section/index.js + 1 modules
-var Section = __webpack_require__(7299);
+var Section = __webpack_require__(7986);
 // EXTERNAL MODULE: ./src/components/Container/index.js + 1 modules
-var Container = __webpack_require__(6289);
+var Container = __webpack_require__(9810);
 // EXTERNAL MODULE: ./src/components/PostCard/index.js + 1 modules
-var PostCard = __webpack_require__(2994);
+var PostCard = __webpack_require__(9926);
 // EXTERNAL MODULE: ./src/components/Pagination/Pagination.js
-var Pagination = __webpack_require__(6301);
+var Pagination = __webpack_require__(8098);
 ;// CONCATENATED MODULE: ./src/components/Pagination/index.js
 
 
 // EXTERNAL MODULE: ./src/styles/pages/Home.module.scss
-var Home_module = __webpack_require__(3359);
+var Home_module = __webpack_require__(491);
 var Home_module_default = /*#__PURE__*/__webpack_require__.n(Home_module);
 ;// CONCATENATED MODULE: ./src/pages/index.js
 
@@ -241,7 +241,7 @@ module.exports = require("next/router");
 
 /***/ }),
 
-/***/ 8181:
+/***/ 8541:
 /***/ ((module) => {
 
 "use strict";
@@ -296,7 +296,7 @@ module.exports = require("react-icons/hi");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [893,664,564,938,36,93,533], () => (__webpack_exec__(7215)));
+var __webpack_exports__ = __webpack_require__.X(0, [527,873,320,992,515,12,242], () => (__webpack_exec__(9470)));
 module.exports = __webpack_exports__;
 
 })();

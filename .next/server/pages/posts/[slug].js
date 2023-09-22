@@ -4,7 +4,7 @@ exports.id = 922;
 exports.ids = [922];
 exports.modules = {
 
-/***/ 2699:
+/***/ 4868:
 /***/ ((module) => {
 
 // Exports
@@ -18,7 +18,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 691:
+/***/ 5795:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -28,26 +28,26 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "getStaticPaths": () => (/* binding */ getStaticPaths),
 /* harmony export */   "getStaticProps": () => (/* binding */ getStaticProps)
 /* harmony export */ });
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5893);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1664);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1527);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8873);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2791);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var lib_posts__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1972);
-/* harmony import */ var lib_categories__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9496);
-/* harmony import */ var lib_datetime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4449);
-/* harmony import */ var lib_json_ld__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8357);
-/* harmony import */ var lib_site__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(3625);
-/* harmony import */ var hooks_use_site__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1127);
-/* harmony import */ var hooks_use_page_metadata__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(3255);
-/* harmony import */ var components_Layout__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(1938);
-/* harmony import */ var components_Header__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(4695);
-/* harmony import */ var components_Section__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(7299);
-/* harmony import */ var components_Container__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(6289);
-/* harmony import */ var components_Content__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(6676);
-/* harmony import */ var components_Metadata__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(8093);
-/* harmony import */ var components_FeaturedImage__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(7906);
-/* harmony import */ var styles_pages_Post_module_scss__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(2699);
+/* harmony import */ var lib_posts__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8475);
+/* harmony import */ var lib_categories__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6158);
+/* harmony import */ var lib_datetime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4553);
+/* harmony import */ var lib_json_ld__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1293);
+/* harmony import */ var lib_site__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(2771);
+/* harmony import */ var hooks_use_site__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(6202);
+/* harmony import */ var hooks_use_page_metadata__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(3913);
+/* harmony import */ var components_Layout__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(7992);
+/* harmony import */ var components_Header__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(3636);
+/* harmony import */ var components_Section__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(7986);
+/* harmony import */ var components_Container__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(9810);
+/* harmony import */ var components_Content__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(1020);
+/* harmony import */ var components_Metadata__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(12);
+/* harmony import */ var components_FeaturedImage__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(5176);
+/* harmony import */ var styles_pages_Post_module_scss__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(4868);
 /* harmony import */ var styles_pages_Post_module_scss__WEBPACK_IMPORTED_MODULE_17___default = /*#__PURE__*/__webpack_require__.n(styles_pages_Post_module_scss__WEBPACK_IMPORTED_MODULE_17__);
 
 
@@ -335,7 +335,7 @@ module.exports = require("next/router");
 
 /***/ }),
 
-/***/ 8181:
+/***/ 8541:
 /***/ ((module) => {
 
 "use strict";
@@ -374,7 +374,7 @@ module.exports = require("react-icons/fa");
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [893,664,564,938,36,93,751], () => (__webpack_exec__(691)));
+var __webpack_exports__ = __webpack_require__.X(0, [527,873,320,992,515,12,969], () => (__webpack_exec__(5795)));
 module.exports = __webpack_exports__;
 
 })();

@@ -189,7 +189,7 @@ let client;
  */ function _createApolloClient() {
     return new _apollo_client__WEBPACK_IMPORTED_MODULE_0__.ApolloClient({
         link: new _apollo_client__WEBPACK_IMPORTED_MODULE_0__.HttpLink({
-            uri: (0,lib_util__WEBPACK_IMPORTED_MODULE_1__/* .removeLastTrailingSlash */ .bq)("http://headlesswp.local/graphql")
+            uri: (0,lib_util__WEBPACK_IMPORTED_MODULE_1__/* .removeLastTrailingSlash */ .bq)("https://headlesswp.antaservice.it/graphql")
         }),
         cache: new _apollo_client__WEBPACK_IMPORTED_MODULE_0__.InMemoryCache({
             typePolicies: {
@@ -317,7 +317,7 @@ const QUERY_CATEGORY_SEO_BY_SLUG = client_.gql`
  * getCategoryBySlug
  */ async function getCategoryBySlug(slug) {
     const apolloClient = (0,apollo_client/* getApolloClient */.W)();
-    const apiHost = new URL("http://headlesswp.local/graphql").host;
+    const apiHost = new URL("https://headlesswp.antaservice.it/graphql").host;
     let categoryData;
     let seoData;
     try {
@@ -722,7 +722,7 @@ const QUERY_PAGE_SEO_BY_URI = client_.gql`
  * getPageByUri
  */ async function getPageByUri(uri) {
     const apolloClient = (0,apollo_client/* getApolloClient */.W)();
-    const apiHost = new URL("http://headlesswp.local/graphql").host;
+    const apiHost = new URL("https://headlesswp.antaservice.it/graphql").host;
     let pageData;
     let seoData;
     try {
@@ -1181,7 +1181,7 @@ const QUERY_POST_PER_PAGE = client_.gql`
  * getPostBySlug
  */ async function getPostBySlug(slug) {
     const apolloClient = (0,apollo_client/* getApolloClient */.W)();
-    const apiHost = new URL("http://headlesswp.local/graphql").host;
+    const apiHost = new URL("https://headlesswp.antaservice.it/graphql").host;
     let postData;
     let seoData;
     try {

@@ -2,62 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://next-wordpress-starter.spacejelly.dev</loc>
-    <lastmod>2023-09-22T09:29:52.642Z</lastmod>
+    <lastmod>2023-09-22T09:55:37.165Z</lastmod>
   </url>
   <url>
-    <loc>https://next-wordpress-starter.spacejelly.dev/hone/</loc>
+    <loc>https://next-wordpress-starter.spacejelly.dev/home/</loc>
     <priority>0.3</priority>
-    <lastmod>2023-09-20T10:29:51.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://next-wordpress-starter.spacejelly.dev/page5-2/</loc>
-    <priority>0.3</priority>
-    <lastmod>2023-09-20T10:30:02.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://next-wordpress-starter.spacejelly.dev/page3-2/</loc>
-    <priority>0.3</priority>
-    <lastmod>2023-09-20T10:29:26.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://next-wordpress-starter.spacejelly.dev/page1-2/</loc>
-    <priority>0.3</priority>
-    <lastmod>2023-09-20T10:29:07.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://next-wordpress-starter.spacejelly.dev/page6-2/</loc>
-    <priority>0.3</priority>
-    <lastmod>2023-09-20T10:30:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://next-wordpress-starter.spacejelly.dev/page2-2/</loc>
-    <priority>0.3</priority>
-    <lastmod>2023-09-20T10:29:17.000Z</lastmod>
+    <lastmod>2023-09-22T07:48:38.000Z</lastmod>
   </url>
   <url>
     <loc>https://next-wordpress-starter.spacejelly.dev/page4-2/</loc>
     <priority>0.3</priority>
-    <lastmod>2023-09-20T10:29:37.000Z</lastmod>
+    <lastmod>2023-09-22T07:49:30.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://next-wordpress-starter.spacejelly.dev/page5-2/</loc>
+    <priority>0.3</priority>
+    <lastmod>2023-09-22T07:49:41.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://next-wordpress-starter.spacejelly.dev/page2-2/</loc>
+    <priority>0.3</priority>
+    <lastmod>2023-09-22T07:49:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://next-wordpress-starter.spacejelly.dev/page1-2/</loc>
+    <priority>0.3</priority>
+    <lastmod>2023-09-22T07:48:49.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://next-wordpress-starter.spacejelly.dev/page3-2/</loc>
+    <priority>0.3</priority>
+    <lastmod>2023-09-22T07:49:20.000Z</lastmod>
   </url>
 
   <url>
-    <loc>https://next-wordpress-starter.spacejelly.dev/posts/hello-world/</loc>
-    <lastmod>2023-09-20T10:20:48.000Z</lastmod>
+    <loc>https://next-wordpress-starter.spacejelly.dev/posts/ada-post/</loc>
+    <lastmod>2023-09-22T07:54:39.000Z</lastmod>
   </url>
   <url>
-    <loc>https://next-wordpress-starter.spacejelly.dev/posts/ada-post/</loc>
-    <lastmod>2023-09-21T08:51:00.000Z</lastmod>
+    <loc>https://next-wordpress-starter.spacejelly.dev/posts/post-1/</loc>
+    <lastmod>2023-09-22T07:54:45.000Z</lastmod>
   </url>
   <url>
     <loc>https://next-wordpress-starter.spacejelly.dev/posts/post-2/</loc>
-    <lastmod>2023-09-20T10:43:30.000Z</lastmod>
+    <lastmod>2023-09-22T07:54:49.000Z</lastmod>
   </url>
   <url>
     <loc>https://next-wordpress-starter.spacejelly.dev/posts/post-3/</loc>
-    <lastmod>2023-09-20T10:43:45.000Z</lastmod>
+    <lastmod>2023-09-22T07:54:54.000Z</lastmod>
   </url>
   <url>
     <loc>https://next-wordpress-starter.spacejelly.dev/posts/post-4/</loc>
-    <lastmod>2023-09-20T10:43:56.000Z</lastmod>
+    <lastmod>2023-09-22T07:54:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://next-wordpress-starter.spacejelly.dev/posts/post-5/</loc>
+    <lastmod>2023-09-22T07:55:01.000Z</lastmod>
   </url>
 </urlset>

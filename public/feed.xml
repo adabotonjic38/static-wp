@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HeadlessWP]]></title>
+        <description><![CDATA[HeadlessWP]]></description>
+        <link>https://next-wordpress-starter.spacejelly.dev</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 22 Sep 2023 07:34:13 GMT</lastBuildDate>
+        <atom:link href="https://next-wordpress-starter.spacejelly.dev/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 22 Sep 2023 07:34:13 GMT</pubDate>
+        <copyright><![CDATA[2023 HeadlessWP]]></copyright>
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hello world!]]></title>
+            <description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/hello-world</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/hello-world</guid>
+            <category><![CDATA[Blog]]></category>
+            <dc:creator><![CDATA[adabotonjic]]></dc:creator>
+            <pubDate>Wed, 20 Sep 2023 10:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ada post]]></title>
+            <description><![CDATA[Saepe in est et. Sit dolores eos aliquam porro rem. Dolore alias distinctio accusamus Et aperiam ut molestiae praesentium tempora impedit Repudiandae tempora Perferendis Cupiditate Sint Doloribus asperiores minus hic Ratione et quia corporis temporibus quo a. Non architecto voluptas accusantium animi provident. Sed esse repellendus ea ut Tenetur eos explicabo est Ratione et velit&hellip; Continue reading Ada post
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/ada-post</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/ada-post</guid>
+            <category><![CDATA[News]]></category>
+            <dc:creator><![CDATA[adabotonjic]]></dc:creator>
+            <pubDate>Tue, 19 Sep 2023 16:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post 2]]></title>
+            <description><![CDATA[Minima doloribus sit.
+Ut quibusdam et.
+Ex magnam ipsa.
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/post-2</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/post-2</guid>
+            <category><![CDATA[Blog]]></category>
+            <dc:creator><![CDATA[adabotonjic]]></dc:creator>
+            <pubDate>Tue, 19 Sep 2023 09:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post 3]]></title>
+            <description><![CDATA[Ducimus reiciendis quidem et. Ea omnis consequatur qui. Et sunt mollitia doloribus est dolor. Officiis Qui laudantium quisquam Itaque quos velit ducimus aut nihil quia Cupiditate Provident fuga placeat voluptatem rerum. Architecto est dolorem ratione illum ut Aliquam nam aut delectus dolore. Eum eaque hic est. Accusamus nulla est ratione non officia. quidem qui numquam&hellip; Continue reading Post 3
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/post-3</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/post-3</guid>
+            <category><![CDATA[Blog]]></category>
+            <dc:creator><![CDATA[adabotonjic]]></dc:creator>
+            <pubDate>Tue, 19 Sep 2023 09:08:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post 4]]></title>
+            <description><![CDATA[Perferendis.
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/post-4</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/post-4</guid>
+            <category><![CDATA[Blog]]></category>
+            <dc:creator><![CDATA[adabotonjic]]></dc:creator>
+            <pubDate>Mon, 18 Sep 2023 22:47:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
